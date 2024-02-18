@@ -11,9 +11,9 @@ QuestMart is a web application designed as a marketplace for buying and selling 
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, jQuery
 - **Backend**: Python (Django framework)
-- **Database**: PostgreSQL (hosted on Google Cloud SQL)
+- **Database**: MySQL (hosted on Google Cloud SQL)
 - **Cloud Hosting**: Google Cloud Platform (GCP)
 - **Load Balancing**: Google Cloud Load Balancing for optimal performance and DDoS protection.
 
