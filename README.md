@@ -29,27 +29,33 @@ QuestMart is deployed on Google Cloud Platform (GCP) using Google Application En
 git clone https://github.com/nandishamin0/QuestMart-Cloud-based-Marketplace.git
 ```
 
-2. Install dependencies:
+2. Navigate to the cloned repository:
+
+```bash
+cd QuestMart-Cloud-based-Marketplace/questmart
+```
+   
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Set up Google Cloud SQL instance and configure database settings in Django settings file.
+4. Set up Google Cloud SQL instance and configure database settings in Django settings file.
 
-4. Run migrations to create database tables:
+5. Run migrations to create database tables:
 
 ```bash
 python manage.py migrate
 ```
 
-5. Run the development server:
+6. Run the development server:
 
 ```bash
 python manage.py runserver
 ```
 
-6. Access the application in your web browser at `http://localhost:8000`.
+7. Access the application in your web browser at `http://localhost:8000`.
 
 ## Contributing
 
