@@ -19,7 +19,7 @@ QuestMart is a web application designed as a marketplace for buying and selling 
 
 ## Deployment
 
-QuestMart is deployed on Google Cloud Platform (GCP) using Google Cloud SQL for the database and Google Cloud Load Balancing for optimized performance and security against DDoS attacks.
+QuestMart is deployed on Google Cloud Platform (GCP) using Google Application Engine, Google Cloud SQL for the database and Google Cloud Load Balancing for optimized performance and security against DDoS attacks.
 
 ## Getting Started
 
